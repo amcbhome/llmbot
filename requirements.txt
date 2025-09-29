@@ -1,0 +1,4 @@
+%%writefile requirements.txt
+PyPDF2
+google-generativeai
+ipython
